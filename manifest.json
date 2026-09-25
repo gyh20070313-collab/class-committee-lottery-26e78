@@ -1,0 +1,10 @@
+{
+  "name": "26英语78班班委竞选随机抽签系统",
+  "short_name": "班委抽签",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#05070d",
+  "theme_color": "#070a13",
+  "description": "公平、离线、本地运行的班委竞选抽签系统",
+  "icons": [{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
